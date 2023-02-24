@@ -16,9 +16,7 @@ import androidx.compose.ui.tooling.preview.Preview
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
 import com.mohammad.askar.handleuieventswithstate.event.CardEvent
-import com.mohammad.askar.handleuieventswithstate.state.CardState
 import com.mohammad.askar.handleuieventswithstate.viewModel.CardViewModel
-import java.util.EventListener
 
 @Composable
 fun CardScreen(
